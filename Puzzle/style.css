@@ -1,4 +1,30 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
 #map {
-    width: 600px;
-    height: 400px;
+    width: 50%;
+    height: 50%;
+    float: left;
+}
+
+#puzzleArea {
+    width: 45%;
+    height: 50%;
+    float: right;
+}
+#puzzlePlaceholder{
+    height: 45%;
+    width: 100%;
+    float: bottom;
+}
+#generate{
+    float: left;
+}
+#puzzlePiece {
+    position: absolute;
+    border-color: black;
 }
