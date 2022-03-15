@@ -1,3 +1,3 @@
 # websites
 
-websites for private use.
+Repository containing websites created while learning basics of HTML, CSS and JS.
